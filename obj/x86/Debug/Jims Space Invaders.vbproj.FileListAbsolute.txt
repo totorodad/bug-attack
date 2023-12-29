@@ -1,0 +1,11 @@
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\bin\Debug\Jims Space Invaders.exe
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\bin\Debug\Jims Space Invaders.pdb
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\bin\Debug\Jims Space Invaders.xml
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\obj\x86\Debug\Jims_Space_Invaders.Form1.resources
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\obj\x86\Debug\Jims_Space_Invaders.Resources.resources
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\obj\x86\Debug\Jims Space Invaders.exe
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\obj\x86\Debug\Jims Space Invaders.xml
+C:\Users\totorodad\documents\visual studio 2010\Projects\Jims Space Invaders\Jims Space Invaders\obj\x86\Debug\Jims Space Invaders.pdb

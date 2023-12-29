@@ -1,0 +1,11 @@
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\bin\Release\Jims Space Invaders.exe
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\bin\Release\Jims Space Invaders.pdb
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\bin\Release\Jims Space Invaders.xml
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\obj\x86\Release\Jims_Space_Invaders.Form1.resources
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\obj\x86\Release\Jims_Space_Invaders.Resources.resources
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\obj\x86\Release\Jims Space Invaders.exe
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\obj\x86\Release\Jims Space Invaders.xml
+C:\Users\totorodad\Documents\Visual Studio 2010\Projects\Bug Attack\Bug Attack\obj\x86\Release\Jims Space Invaders.pdb
